@@ -3,3 +3,5 @@
 
 # ignore .idea folder 
 .idea/
+# ignore target folder to avoid commiting build files
+target/
